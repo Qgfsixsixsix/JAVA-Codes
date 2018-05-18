@@ -1,5 +1,6 @@
 /*
  *The BinarySearch method is used to iterate over each row.
+ *
  */
 public class MethodDemo{
 	public static boolean Solution(int[][] arr,int target){
